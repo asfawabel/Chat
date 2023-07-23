@@ -62,6 +62,6 @@ io.on("connection", IoController.onConnection);
       console.log(`Server Listening on ${PORT}`);
     });
   } catch (err) {
-    console.log(error);
+    console.log(err);
   }
 })();

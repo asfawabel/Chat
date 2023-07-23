@@ -1,8 +1,8 @@
-# GeoChat.io
+# Chat.io
 
-✔️ Final portfolio project for ALX.
+✔️ Final portfolio.
 
-GeoChat is an instant messaging app with a location feature.
+Chat is an instant messaging app with a location feature.
 
 It's built on a the MERN stack and utilizes the following tecnologies:
 * Backend (Node.js)
@@ -39,10 +39,6 @@ Run ``` npm run build ``` from the client directory to build the project and las
 ![landing Screenshot](./landing.png)
 ![App Screenshot](./app.png)
 
-## Authors
-
-- [@Philimon Derib](https://github.com/philimon-reset/)
-- [@Hizkyas T.](https://github.com/Doro-000/)
 
 
 
